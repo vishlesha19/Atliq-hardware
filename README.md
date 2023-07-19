@@ -1,5 +1,6 @@
 # Atliq-hardware
 sales insights for Atliq Hardware
+
 Analysis and Insights
 
 1. Total Revenue and Sales Quantity:
